@@ -36,16 +36,16 @@ nav a {
 }
 
 header {
-  padding: 80px 20px;
+  padding: 80px 20;
   text-align: center;
   background-color: #f3f0ff;
   color: #4337de;
-
+}
 
 .content-box {
   margin: 50px auto;
   max-width: 500px;
-  padding: 30px
+  padding: 30px;
   border: 1px solid #eee;
   border-radius: 10px;
   text-align: center;
